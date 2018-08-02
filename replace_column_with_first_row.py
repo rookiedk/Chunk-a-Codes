@@ -1,4 +1,5 @@
 #Chunk'a code
+
 def replace_column_headers_with_first_row(df, split_variable, row_replacing_column_header):
     """
     :param df: DataFrame with no column headers or unnecessary columns headers
